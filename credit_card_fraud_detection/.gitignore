@@ -1,0 +1,19 @@
+
+---
+
+### **Final `.gitignore`**
+
+```gitignore
+# Ignore virtual environments
+venv/
+
+# Ignore dataset files
+*.csv
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore model and results
+*.pkl
+results/
